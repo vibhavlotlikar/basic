@@ -46,7 +46,12 @@ namespace PrimeNo
             Console.ReadLine();
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="n"></param>
+        /// <param name="i"></param>
+        /// <returns></returns>
         private static int CheckPrime(int n, int i)
         {
             if (i == 1)
