@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialTests", "FactorialTests\FactorialTests.csproj", "{136ED6C8-03F9-41F5-8AB3-D0261AEBC98A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Knockout", "Knockout\Knockout.csproj", "{BB154FB7-933C-4E13-AC3B-8C45A2919E50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{136ED6C8-03F9-41F5-8AB3-D0261AEBC98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{136ED6C8-03F9-41F5-8AB3-D0261AEBC98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{136ED6C8-03F9-41F5-8AB3-D0261AEBC98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB154FB7-933C-4E13-AC3B-8C45A2919E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB154FB7-933C-4E13-AC3B-8C45A2919E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB154FB7-933C-4E13-AC3B-8C45A2919E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB154FB7-933C-4E13-AC3B-8C45A2919E50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
