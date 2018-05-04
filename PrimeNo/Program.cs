@@ -44,6 +44,11 @@ namespace PrimeNo
                 Console.WriteLine("Not a prime");
             }
             Console.ReadLine();
+
+
+
+
+            Feature2 f2 = new Feature2();
         }
 
         /// <summary>
