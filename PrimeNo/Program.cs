@@ -43,6 +43,7 @@ namespace PrimeNo
             {
                 Console.WriteLine("Not a prime");
             }
+            //call feature 1 here 
             Console.ReadLine();
         }
 
