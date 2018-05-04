@@ -45,6 +45,11 @@ namespace PrimeNo
             }
             //call feature 1 here 
             Console.ReadLine();
+
+
+
+
+            Feature2 f2 = new Feature2();
         }
 
         /// <summary>
